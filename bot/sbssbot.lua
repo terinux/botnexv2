@@ -232,18 +232,18 @@ function create_config( )
     "id",
     "tagall"
     },
-    sudo_users = {181803152},--Sudo users
+    sudo_users = {115740444},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Sbss Bot V2 Beta
     An Advanced Anti Spam Bot Forked On TeleSeed
     
     Develpoed By:
-    @Mr_Ah_S
+    @aryan_daltons
     Manager:
-    @amiirdada
+    @aryan_daltons
     Founder:
-    @AmirQuick
+    @aryan_daltons
     
     Special Thank To:
     Mehr Pouya
@@ -251,7 +251,7 @@ function create_config( )
     IM/-\N
     Creed Is Dead
     
-    Powered By @Sbss_Team
+    Powered By @Terinux
     
     #Open Source
     https://github.com/SbssTeam/Sbss
